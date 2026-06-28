@@ -1,0 +1,6 @@
+Recibir la información de forma estructurada es fundamental porque permite a los sistemas 
+informáticos procesar, validar y almacenar los datos automáticamente sin necesidad de 
+intervención humana. Al organizar los reportes bajo un formato estandarizado como JSON, 
+las plataformas pueden clasificar las incidencias por categorías de inmediato, dirigir 
+cada caso de manera eficiente a la entidad correspondiente para agilizar su resolución, 
+y acumular métricas limpias para generar estadísticas o mapas de calor en tiempo real.
